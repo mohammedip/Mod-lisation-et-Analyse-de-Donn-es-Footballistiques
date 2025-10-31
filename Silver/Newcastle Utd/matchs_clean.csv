@@ -1,0 +1,49 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,GF_Pen,GA_Pen
+2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,Victoire,1,0,Southampton,0.3,1.8,23.0,52196.0,Bruno Guimarães,4-3-3,3-5-2,Craig Pawson,0,0
+2024-08-25,14:00,Premier League,Matchweek 2,Sun,Away,Nul,1,1,Bournemouth,1.6,2.2,61.0,11161.0,Bruno Guimarães,4-3-3,4-2-3-1,David Coote,0,0
+2024-08-28,20:00,EFL Cup,Second round,Wed,Away,Nul,1,1,Nott'ham Forest,,,59.0,23083.0,Kieran Trippier,4-3-3,3-4-1-2,Samuel Allison,4,3
+2024-09-01,13:30,Premier League,Matchweek 3,Sun,Home,Victoire,2,1,Tottenham,1.8,1.2,35.0,52211.0,Bruno Guimarães,4-3-3,4-2-3-1,Robert Jones,0,0
+2024-09-15,16:30,Premier League,Matchweek 4,Sun,Away,Victoire,2,1,Wolves,1.5,1.2,51.0,30255.0,Bruno Guimarães,4-3-3,4-4-1-1,Chris Kavanagh,0,0
+2024-09-21,15:00,Premier League,Matchweek 5,Sat,Away,Défaite,1,3,Fulham,1.5,2.2,61.0,25700.0,Bruno Guimarães,4-3-3,4-2-3-1,Peter Bankes,0,0
+2024-09-28,12:30,Premier League,Matchweek 6,Sat,Home,Nul,1,1,Manchester City,1.6,0.9,38.0,52248.0,Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,0,0
+2024-10-01,19:45,EFL Cup,Third round,Tue,Home,Victoire,1,0,AFC Wimbledon,,,78.0,51739.0,Fabian Schär,4-3-3,3-5-2,Darren Bond,0,0
+2024-10-05,17:30,Premier League,Matchweek 7,Sat,Away,Nul,0,0,Everton,2.1,0.7,67.0,39265.0,Bruno Guimarães,4-3-3,4-2-3-1,Craig Pawson,0,0
+2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,Défaite,0,1,Brighton,2.0,1.1,60.0,52220.0,Bruno Guimarães,4-3-3,4-4-2,Peter Bankes,0,0
+2024-10-27,14:00,Premier League,Matchweek 9,Sun,Away,Défaite,1,2,Chelsea,1.8,1.6,50.0,39526.0,Bruno Guimarães,4-3-3,4-2-3-1,Simon Hooper,0,0
+2024-10-30,19:45,EFL Cup,Fourth round,Wed,Home,Victoire,2,0,Chelsea,,,35.0,51934.0,Fabian Schär,4-3-3,4-2-3-1,Chris Kavanagh,0,0
+2024-11-02,12:30,Premier League,Matchweek 10,Sat,Home,Victoire,1,0,Arsenal,0.5,1.1,37.0,52249.0,Bruno Guimarães,4-3-3,4-4-2,John Brooks,0,0
+2024-11-10,14:00,Premier League,Matchweek 11,Sun,Away,Victoire,3,1,Nott'ham Forest,1.6,0.6,56.0,30145.0,Bruno Guimarães,4-3-3,4-2-3-1,Anthony Taylor,0,0
+2024-11-25,20:00,Premier League,Matchweek 12,Mon,Home,Défaite,0,2,West Ham,1.6,0.9,53.0,52094.0,Bruno Guimarães,4-3-3,4-2-3-1,Craig Pawson,0,0
+2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,Nul,1,1,Crystal Palace,0.0,1.7,51.0,25101.0,Bruno Guimarães,4-3-3,3-4-3,Darren England,0,0
+2024-12-04,19:30,Premier League,Matchweek 14,Wed,Home,Nul,3,3,Liverpool,2.1,1.9,42.0,52237.0,Bruno Guimarães,4-3-3,4-2-3-1,Andy Madley,0,0
+2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,Défaite,2,4,Brentford,1.5,1.2,57.0,17078.0,Bruno Guimarães,4-3-3,3-4-3,Simon Hooper,0,0
+2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,Victoire,4,0,Leicester City,3.8,0.2,59.0,52235.0,Bruno Guimarães,4-3-3,4-2-3-1,Thomas Bramall,0,0
+2024-12-18,19:45,EFL Cup,Quarter-finals,Wed,Home,Victoire,3,1,Brentford,,,54.0,51765.0,Bruno Guimarães,4-3-3,3-4-3,Samuel Barrott,0,0
+2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,Victoire,4,0,Ipswich Town,2.3,0.7,58.0,29774.0,Bruno Guimarães,4-3-3,4-2-3-1,Stuart Attwell,0,0
+2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,Victoire,3,0,Aston Villa,2.7,0.3,62.0,52168.0,Bruno Guimarães,4-3-3,4-2-3-1,Anthony Taylor,0,0
+2024-12-30,20:00,Premier League,Matchweek 19,Mon,Away,Victoire,2,0,Manchester Utd,1.9,0.8,48.0,73809.0,Bruno Guimarães,4-3-3,3-4-3,Simon Hooper,0,0
+2025-01-04,12:30,Premier League,Matchweek 20,Sat,Away,Victoire,2,1,Tottenham,2.5,0.9,44.0,61293.0,Bruno Guimarães,4-3-3,4-2-3-1,Andy Madley,0,0
+2025-01-07,20:00,EFL Cup,Semi-finals,Tue,Away,Victoire,2,0,Arsenal,,,31.0,59125.0,Dan Burn,4-3-3,4-3-3,John Brooks,0,0
+2025-01-12,15:00,FA Cup,Third round proper,Sun,Home,Victoire,3,1,Bromley,,,,52088.0,Kieran Trippier,4-3-3,3-4-3,Will Finnie,0,0
+2025-01-15,19:30,Premier League,Matchweek 21,Wed,Home,Victoire,3,0,Wolves,2.1,1.6,60.0,51975.0,Bruno Guimarães,4-3-3,3-4-3,Darren England,0,0
+2025-01-18,12:30,Premier League,Matchweek 22,Sat,Home,Défaite,1,4,Bournemouth,0.8,2.0,56.0,52227.0,Bruno Guimarães,4-3-3,4-2-3-1,Stuart Attwell,0,0
+2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,Victoire,3,1,Southampton,2.9,0.8,47.0,31141.0,Bruno Guimarães,4-3-3,3-4-1-2,Samuel Barrott,0,0
+2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,Défaite,1,2,Fulham,0.8,1.6,49.0,52173.0,Bruno Guimarães,4-3-3,4-2-3-1,Chris Kavanagh,0,0
+2025-02-05,20:00,EFL Cup,Semi-finals,Wed,Home,Victoire,2,0,Arsenal,,,32.0,52173.0,Bruno Guimarães,5-4-1,4-3-3,Simon Hooper,0,0
+2025-02-08,17:45,FA Cup,Fourth round proper,Sat,Away,Victoire,3,2,Birmingham City,,,63.0,27994.0,Bruno Guimarães,4-3-3,4-2-3-1,Matt Donohue,0,0
+2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,Défaite,0,4,Manchester City,0.5,1.9,39.0,52479.0,Bruno Guimarães,4-3-3,4-2-3-1,Andy Madley,0,0
+2025-02-23,14:00,Premier League,Matchweek 26,Sun,Home,Victoire,4,3,Nott'ham Forest,2.9,1.7,57.0,52223.0,Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,0,0
+2025-02-26,20:15,Premier League,Matchweek 27,Wed,Away,Défaite,0,2,Liverpool,0.2,1.7,39.0,60374.0,Bruno Guimarães,4-2-3-1,4-2-3-1,Stuart Attwell,0,0
+2025-03-02,13:45,FA Cup,Fifth round proper,Sun,Home,Défaite,1,2,Brighton,,,48.0,51566.0,Kieran Trippier,4-3-3,4-2-3-1,Anthony Taylor,0,0
+2025-03-10,20:00,Premier League,Matchweek 28,Mon,Away,Victoire,1,0,West Ham,1.4,0.7,49.0,62463.0,Bruno Guimarães,4-3-3,3-5-2,Michael Salisbury,0,0
+2025-03-16,16:30,EFL Cup,Final,Sun,Neutral,Victoire,2,1,Liverpool,,,34.0,88513.0,Bruno Guimarães,4-3-3,4-2-3-1,John Brooks,0,0
+2025-04-02,19:45,Premier League,Matchweek 30,Wed,Home,Victoire,2,1,Brentford,1.3,1.5,49.0,52021.0,Bruno Guimarães,4-3-3,4-2-3-1,Peter Bankes,0,0
+2025-04-07,20:00,Premier League,Matchweek 31,Mon,Away,Victoire,3,0,Leicester City,3.2,0.5,42.0,30403.0,Bruno Guimarães,4-3-3,3-4-3,Robert Jones,0,0
+2025-04-13,16:30,Premier League,Matchweek 32,Sun,Home,Victoire,4,1,Manchester Utd,2.2,0.7,48.0,52252.0,Bruno Guimarães,4-3-3,3-4-3,Chris Kavanagh,0,0
+2025-04-16,19:30,Premier League,Matchweek 29,Wed,Home,Victoire,5,0,Crystal Palace,1.5,2.0,59.0,52197.0,Bruno Guimarães,4-3-3,3-4-3,Darren England,0,0
+2025-04-19,17:30,Premier League,Matchweek 33,Sat,Away,Défaite,1,4,Aston Villa,1.0,2.2,52.0,42618.0,Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,0,0
+2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,Victoire,3,0,Ipswich Town,2.4,0.1,77.0,52171.0,Bruno Guimarães,4-3-3,4-4-1-1,Michael Salisbury,0,0
+2025-05-04,14:00,Premier League,Matchweek 35,Sun,Away,Nul,1,1,Brighton,1.7,0.7,55.0,31580.0,Bruno Guimarães,4-3-3,4-2-3-1,Craig Pawson,0,0
+2025-05-11,12:00,Premier League,Matchweek 36,Sun,Home,Victoire,2,0,Chelsea,1.6,0.7,45.0,52231.0,Bruno Guimarães,3-4-3,4-2-3-1,John Brooks,0,0
+2025-05-18,16:30,Premier League,Matchweek 37,Sun,Away,Défaite,0,1,Arsenal,1.5,0.6,49.0,60160.0,Bruno Guimarães,3-4-3,4-3-3,Simon Hooper,0,0
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,Défaite,0,1,Everton,1.2,1.2,65.0,52221.0,Bruno Guimarães,3-4-3,4-2-3-1,Tony Harrington,0,0

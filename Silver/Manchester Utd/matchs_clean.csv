@@ -1,0 +1,61 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,GF_Pen,GA_Pen
+2024-08-10,15:00,FA Community Shield,FA Community Shield,Sat,Away,Nul,1,1,Manchester City,,,44.0,78146.0,Bruno Fernandes,4-2-3-1,4-3-3,Jarred Gillett,6,7
+2024-08-16,20:00,Premier League,Matchweek 1,Fri,Home,Victoire,1,0,Fulham,2.4,0.4,55.0,73297.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,0,0
+2024-08-24,12:30,Premier League,Matchweek 2,Sat,Away,Défaite,1,2,Brighton,1.4,2.1,52.0,31537.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Craig Pawson,0,0
+2024-09-01,16:00,Premier League,Matchweek 3,Sun,Home,Défaite,0,3,Liverpool,1.4,1.8,53.0,73738.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Anthony Taylor,0,0
+2024-09-14,12:30,Premier League,Matchweek 4,Sat,Away,Victoire,3,0,Southampton,2.6,1.1,56.0,31144.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Stuart Attwell,0,0
+2024-09-17,20:00,EFL Cup,Third round,Tue,Home,Victoire,7,0,Barnsley,,,65.0,72063.0,Casemiro,4-2-3-1,5-3-2,Gavin Ward,0,0
+2024-09-21,17:30,Premier League,Matchweek 5,Sat,Away,Nul,0,0,Crystal Palace,1.6,1.0,67.0,25172.0,Bruno Fernandes,4-2-3-1,3-4-3,David Coote,0,0
+2024-09-25,20:00,Europa Lg,League phase,Wed,Home,Nul,1,1,nl Twente,1.3,0.5,57.0,73069.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Simone Sozza,0,0
+2024-09-29,16:30,Premier League,Matchweek 6,Sun,Home,Défaite,0,3,Tottenham,1.0,4.4,39.0,73587.0,Bruno Fernandes,4-2-3-1,4-3-3,Chris Kavanagh,0,0
+2024-10-03,20:00,Europa Lg,League phase,Thu,Away,Nul,3,3,pt Porto,1.6,2.1,53.0,49211.0,Bruno Fernandes,4-2-3-1,4-3-3,Tobias Stieler,0,0
+2024-10-06,14:00,Premier League,Matchweek 7,Sun,Away,Nul,0,0,Aston Villa,0.6,0.5,47.0,42682.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,0,0
+2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,Victoire,2,1,Brentford,1.3,0.9,50.0,73738.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Samuel Barrott,0,0
+2024-10-24,22:00,Europa Lg,League phase,Thu,Away,Nul,1,1,tr Fenerbahçe,1.1,1.3,48.0,41443.0,Lisandro Martínez,4-2-3-1,4-3-3,Clément Turpin,0,0
+2024-10-27,14:00,Premier League,Matchweek 9,Sun,Away,Défaite,1,2,West Ham,2.3,2.8,58.0,62474.0,Bruno Fernandes,4-2-3-1,4-2-3-1,David Coote,0,0
+2024-10-30,19:45,EFL Cup,Fourth round,Wed,Home,Victoire,5,2,Leicester City,,,56.0,73470.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Andy Madley,0,0
+2024-11-03,16:30,Premier League,Matchweek 10,Sun,Home,Nul,1,1,Chelsea,2.0,1.1,46.0,73813.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,0,0
+2024-11-07,20:00,Europa Lg,League phase,Thu,Home,Victoire,2,0,gr PAOK,1.1,1.3,52.0,73174.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Radu Petrescu,0,0
+2024-11-10,14:00,Premier League,Matchweek 11,Sun,Home,Victoire,3,0,Leicester City,0.8,0.6,51.0,73829.0,Bruno Fernandes,4-2-3-1,4-3-3,Peter Bankes,0,0
+2024-11-24,16:30,Premier League,Matchweek 12,Sun,Away,Nul,1,1,Ipswich Town,0.8,1.6,60.0,30017.0,Bruno Fernandes,3-4-3,4-2-3-1,Anthony Taylor,0,0
+2024-11-28,20:00,Europa Lg,League phase,Thu,Home,Victoire,3,2,no Bodø/Glimt,2.9,0.8,72.0,72985.0,Bruno Fernandes,3-4-3,4-3-3,Lawrence Visser,0,0
+2024-12-01,13:30,Premier League,Matchweek 13,Sun,Home,Victoire,4,0,Everton,1.1,0.6,60.0,73817.0,Bruno Fernandes,3-4-3,4-2-3-1,John Brooks,0,0
+2024-12-04,20:15,Premier League,Matchweek 14,Wed,Away,Défaite,0,2,Arsenal,0.2,2.1,49.0,60256.0,Bruno Fernandes,3-4-3,4-3-3,Samuel Barrott,0,0
+2024-12-07,17:30,Premier League,Matchweek 15,Sat,Home,Défaite,2,3,Nott'ham Forest,1.6,0.8,71.0,73778.0,Bruno Fernandes,3-4-3,4-2-3-1,Darren England,0,0
+2024-12-12,18:45,Europa Lg,League phase,Thu,Away,Victoire,2,1,cz Viktoria Plzeň,2.9,0.9,68.0,11320.0,Bruno Fernandes,3-4-3,3-4-3,Marian Barbu,0,0
+2024-12-15,16:30,Premier League,Matchweek 16,Sun,Away,Victoire,2,1,Manchester City,2.1,0.9,48.0,53184.0,Bruno Fernandes,3-4-3,4-1-4-1,Anthony Taylor,0,0
+2024-12-19,20:00,EFL Cup,Quarter-finals,Thu,Away,Défaite,3,4,Tottenham,,,54.0,57409.0,Bruno Fernandes,3-4-3,4-2-3-1,John Brooks,0,0
+2024-12-22,14:00,Premier League,Matchweek 17,Sun,Home,Défaite,0,3,Bournemouth,2.2,1.6,60.0,73720.0,Bruno Fernandes,3-4-3,4-2-3-1,Craig Pawson,0,0
+2024-12-26,17:30,Premier League,Matchweek 18,Thu,Away,Défaite,0,2,Wolves,0.4,0.9,49.0,31407.0,Bruno Fernandes,3-4-3,3-4-3,Tony Harrington,0,0
+2024-12-30,20:00,Premier League,Matchweek 19,Mon,Home,Défaite,0,2,Newcastle Utd,0.8,1.9,52.0,73809.0,Lisandro Martínez,3-4-3,4-3-3,Simon Hooper,0,0
+2025-01-05,16:30,Premier League,Matchweek 20,Sun,Away,Nul,2,2,Liverpool,1.0,2.7,47.0,60275.0,Bruno Fernandes,3-4-3,4-2-3-1,Michael Oliver,0,0
+2025-01-12,15:00,FA Cup,Third round proper,Sun,Away,Nul,1,1,Arsenal,,,,60109.0,Bruno Fernandes,3-4-3,4-3-3,Andy Madley,5,3
+2025-01-16,20:00,Premier League,Matchweek 21,Thu,Home,Victoire,3,1,Southampton,3.4,1.4,60.0,73722.0,Bruno Fernandes,3-4-3,3-4-1-2,John Brooks,0,0
+2025-01-19,14:00,Premier League,Matchweek 22,Sun,Home,Défaite,1,3,Brighton,1.5,1.9,51.0,73758.0,Bruno Fernandes,3-4-3,4-4-2,Peter Bankes,0,0
+2025-01-23,20:00,Europa Lg,League phase,Thu,Home,Victoire,2,1,sct Rangers,2.7,1.2,66.0,73288.0,Bruno Fernandes,3-4-3,4-2-3-1,Erik Lambrechts,0,0
+2025-01-26,19:00,Premier League,Matchweek 23,Sun,Away,Victoire,1,0,Fulham,0.3,0.7,49.0,27288.0,Bruno Fernandes,3-4-3,4-2-3-1,Anthony Taylor,0,0
+2025-01-30,22:00,Europa Lg,League phase,Thu,Away,Victoire,2,0,ro FCSB,2.9,0.6,69.0,50128.0,Bruno Fernandes,3-4-3,5-3-2,Harm Osmers,0,0
+2025-02-02,14:00,Premier League,Matchweek 24,Sun,Home,Défaite,0,2,Crystal Palace,1.1,2.6,66.0,73751.0,Bruno Fernandes,3-4-3,3-4-3,John Brooks,0,0
+2025-02-07,20:00,FA Cup,Fourth round proper,Fri,Home,Victoire,2,1,Leicester City,,,56.0,73693.0,Bruno Fernandes,3-4-3,4-2-3-1,Michael Salisbury,0,0
+2025-02-16,16:30,Premier League,Matchweek 25,Sun,Away,Défaite,0,1,Tottenham,1.5,2.2,45.0,61383.0,Bruno Fernandes,3-4-3,4-3-3,Peter Bankes,0,0
+2025-02-22,12:30,Premier League,Matchweek 26,Sat,Away,Nul,2,2,Everton,0.4,1.6,62.0,39290.0,Bruno Fernandes,3-4-3,4-2-3-1,Andy Madley,0,0
+2025-02-26,19:30,Premier League,Matchweek 27,Wed,Home,Victoire,3,2,Ipswich Town,0.7,1.4,45.0,73827.0,Bruno Fernandes,3-4-3,3-4-3,Darren England,0,0
+2025-03-02,16:30,FA Cup,Fifth round proper,Sun,Home,Nul,1,1,Fulham,,,41.0,67614.0,Bruno Fernandes,3-4-3,4-2-3-1,Stuart Attwell,3,4
+2025-03-06,18:45,Europa Lg,Round of 16,Thu,Away,Nul,1,1,es Real Sociedad,1.1,1.4,45.0,34391.0,Bruno Fernandes,3-4-3,4-3-3,Ivan Kružliak,0,0
+2025-03-09,16:30,Premier League,Matchweek 28,Sun,Home,Nul,1,1,Arsenal,1.5,1.6,32.0,73812.0,Bruno Fernandes,3-4-3,4-3-3,Anthony Taylor,0,0
+2025-03-13,20:00,Europa Lg,Round of 16,Thu,Home,Victoire,4,1,es Real Sociedad,4.2,1.0,59.0,73189.0,Bruno Fernandes,3-4-3,4-3-3,Benoît Bastien,0,0
+2025-03-16,19:00,Premier League,Matchweek 29,Sun,Away,Victoire,3,0,Leicester City,0.9,1.0,47.0,31773.0,Bruno Fernandes,3-4-3,3-4-3,Thomas Bramall,0,0
+2025-04-01,20:00,Premier League,Matchweek 30,Tue,Away,Défaite,0,1,Nott'ham Forest,1.6,0.5,68.0,30249.0,Bruno Fernandes,3-4-3,4-2-3-1,Jarred Gillett,0,0
+2025-04-06,16:30,Premier League,Matchweek 31,Sun,Home,Nul,0,0,Manchester City,0.9,0.5,42.0,73738.0,Bruno Fernandes,3-4-3,4-1-2-1-2,John Brooks,0,0
+2025-04-10,21:00,Europa Lg,Quarter-finals,Thu,Away,Nul,2,2,fr Lyon,1.2,1.8,46.0,58018.0,Bruno Fernandes,3-4-3,4-3-1-2,Glenn Nyberg,0,0
+2025-04-13,16:30,Premier League,Matchweek 32,Sun,Away,Défaite,1,4,Newcastle Utd,0.7,2.2,52.0,52252.0,Bruno Fernandes,3-4-3,4-3-3,Chris Kavanagh,0,0
+2025-04-17,20:00,Europa Lg,Quarter-finals,Thu,Home,Victoire,5,4,fr Lyon,3.4,2.5,41.0,73228.0,Bruno Fernandes,3-4-3,4-3-1-2,Sandro Schärer,0,0
+2025-04-20,14:00,Premier League,Matchweek 33,Sun,Home,Défaite,0,1,Wolves,1.3,0.2,59.0,73819.0,Victor Lindelöf,3-4-3,3-4-3,Robert Jones,0,0
+2025-04-27,14:00,Premier League,Matchweek 34,Sun,Away,Nul,1,1,Bournemouth,2.3,0.5,61.0,11241.0,Bruno Fernandes,3-4-3,4-2-3-1,Peter Bankes,0,0
+2025-05-01,21:00,Europa Lg,Semi-finals,Thu,Away,Victoire,3,0,es Athletic Club,2.5,1.1,72.0,51980.0,Bruno Fernandes,3-4-3,4-2-3-1,Espen Eskås,0,0
+2025-05-04,14:00,Premier League,Matchweek 35,Sun,Away,Défaite,3,4,Brentford,1.5,2.8,53.0,18915.0,Luke Shaw,3-4-3,4-2-3-1,Anthony Taylor,0,0
+2025-05-08,20:00,Europa Lg,Semi-finals,Thu,Home,Victoire,4,1,es Athletic Club,2.2,0.8,51.0,73298.0,Bruno Fernandes,3-4-3,4-2-3-1,Daniel Siebert,0,0
+2025-05-11,14:15,Premier League,Matchweek 36,Sun,Home,Défaite,0,2,West Ham,2.1,1.7,52.0,73804.0,Bruno Fernandes,3-4-3,3-4-1-2,Jarred Gillett,0,0
+2025-05-16,20:15,Premier League,Matchweek 37,Fri,Away,Défaite,0,1,Chelsea,0.3,0.8,53.0,39849.0,Bruno Fernandes,3-4-3,4-2-3-1,Chris Kavanagh,0,0
+2025-05-21,21:00,Europa Lg,Final,Wed,Neutral,Défaite,0,1,eng Tottenham,1.0,1.0,72.0,49924.0,Bruno Fernandes,3-4-3,4-2-3-1,Felix Zwayer,0,0
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,Victoire,2,0,Aston Villa,2.9,0.4,67.0,73839.0,Bruno Fernandes,3-4-3,4-2-3-1,Thomas Bramall,0,0
